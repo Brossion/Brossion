@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brossion
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Programming and AI Programming.
 - 🌱 I’m currently learning C++
 - 📫 You can reach me through my e-mail: o__burak@hotmail.com
 
